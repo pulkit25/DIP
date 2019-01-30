@@ -1,7 +1,5 @@
 //NAME: Pulkit Pattnaik
-//USC ID: 6879618446
-//USC email: pattnaik@usc.edu
-//Submission date: 22 January 2019
+//22 January 2019
 // This sample code reads in image data from a RAW image file and
 // writes it into another file
 // NOTE:	The code assumes that the image is of size 256 x 256 and is in the
